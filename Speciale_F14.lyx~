@@ -1475,7 +1475,7 @@ key "hersch2005smoking"
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 btprint "btPrintAll"
-bibfiles "Speciale_F14"
+bibfiles "Speciale_F14/Speciale_F14"
 options "bibtotoc,chicago"
 
 \end_inset
